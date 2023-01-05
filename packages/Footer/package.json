@@ -1,9 +1,9 @@
 {
-  "name": "@cybercomponents/footer",
+  "name": "@cyber_leo/footer",
   "version": "0.0.7",
   "main": "index.tsx",
   "dependencies": {
     "react": "^18.2.0"
   },
-  "gitHead": "e96d1c3fd11eb8123e3c120cb52edd68d11533a1"
+  "gitHead": "9607a5a7445ba12745941e81b01d471111635a5f"
 }
