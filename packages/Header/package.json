@@ -1,6 +1,6 @@
 {
   "name": "@cyber_leo/header",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "index.tsx",
   "dependencies": {
     "react": "^18.2.0"
