@@ -1,7 +1,7 @@
 {
   "name": "@cyber_leo/footer",
   "private": false,
-  "version": "0.0.11",
+  "version": "0.0.12",
   "main": "./src/index.ts",
   "gitHead": "5fc006965a1e52a9e2824363148cbb66e1605dac",
   "publishConfig": {
