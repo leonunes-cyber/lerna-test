@@ -1,11 +1,19 @@
 {
   "name": "root",
   "license": "MIT",
+  "type": "module",
   "private": "true",
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "build": "lerna run build",
+    "lpublish": "lerna publish --no-private"
+  },
   "devDependencies": {
     "lerna": "^6.4.0"
+  },
+  "dependencies": {
+    "typescript": "^4.9.4"
   }
 }
