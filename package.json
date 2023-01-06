@@ -8,7 +8,7 @@
   ],
   "scripts": {
     "build": "lerna run build",
-    "lpublish": "lerna publish --no-private"
+    "lpublish": "lerna publish --no-private -y"
   },
   "devDependencies": {
     "lerna": "^6.4.0"
