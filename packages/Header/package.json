@@ -5,5 +5,8 @@
   "dependencies": {
     "react": "^18.2.0"
   },
-  "gitHead": "8de0f958067a196aacf50b63861cd8d4302a0fb1"
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
